@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "c8": "^9.1.0",
+    "runtime-coverage": "github:jcnauta/runtime-coverage"
+  }
+}
